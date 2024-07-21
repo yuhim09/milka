@@ -1,0 +1,12 @@
+.items{
+    display: flex;
+    justify-content: center;
+    padding: 61px 0px;
+    background: #BB98FF;
+}
+body{
+    margin: 0px;
+}
+.item{
+    margin: 0px 30px;
+}
